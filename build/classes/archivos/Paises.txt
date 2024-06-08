@@ -1,0 +1,42 @@
+USA, +1
+Canada, +1
+Egipto, +20
+Holanda, +31
+Belgica, +32
+Francia, +33
+España, +34
+Italia, +39
+Austria, +43
+Reino Unido, +44
+Dinamarca, +45
+Noruega, +47
+Polonia, +48
+Alemania, +49
+Peru, +51
+Mexico, +52
+Cuba, +53
+Argentina, +54
+Brasil, +55
+Chile, +56
+Colombia, +57
+Venezuela, +57
+Australia, +61
+Filipinas, +63
+Japon, +81
+China, +86
+India, +91
+Iran, +98
+Ghana, +233
+Camerun, +237
+Portugal, +351
+Croacia, +385
+Guatemala, +502
+El Salvador, +503
+Nicaragua, +505
+Panama, +507
+Haiti, +509
+Bolivia, +591
+Ecuador, +593
+Paraguay, +595
+Uruguay, +598
+Arabia Saudita, +966
